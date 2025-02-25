@@ -10,9 +10,11 @@ To download PCSX2 covers use version v.1.7.3329 or higher
 * Open PCSX2
 * Click Tools
 * Select downloader
-* Use this URL for covers default
+* Use this URL for covers default 
+<br>
 `proccess`
 * or use this URL for 3D covers
+<br>
 `proccess`
 * Check "Use Serial File Name"
 * Click Start
