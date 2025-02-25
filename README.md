@@ -5,7 +5,7 @@
 
 ## PCSX2 Setup
 
-To download PCSX2 covers use version v.1.7.3329 or higher
+To download PCSX2 covers use version **v.1.7.3329** or higher
 
 * Open PCSX2
 * Click Tools
