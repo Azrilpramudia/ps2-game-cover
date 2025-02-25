@@ -2,6 +2,7 @@
 
 ### Don't forget to star the repository ⭐
 ### Coming soon
+**PCSX2 has its own cover downloader**
 
 ## PCSX2 Setup
 
