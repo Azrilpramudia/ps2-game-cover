@@ -1,8 +1,7 @@
 # PS2 Game Cover
 
-### Don't forget to star the repository ⭐
+**Don't forget to star the repository ⭐**
 ### Coming soon
-**PCSX2 has its own cover downloader**
 
 ## PCSX2 Setup
 
@@ -12,9 +11,9 @@ To download PCSX2 covers use version v.1.7.3329 or higher
 * Click Tools
 * Select downloader
 * Use this URL for covers default
-'proccess'
+`proccess`
 * or use this URL for 3D covers
-'proccess'
+`proccess`
 * Check "Use Serial File Name"
 * Click Start
 
