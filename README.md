@@ -11,10 +11,10 @@ To download PCSX2 covers use version v.1.7.3329 or higher
 * Click Tools
 * Select downloader
 * Use this URL for covers default
-(https://raw.githubusercontent.com/Azrilpramudia/ps2-game-covers/main/covers/%Serial%.png) 
+```https://raw.githubusercontent.com/Azrilpramudia/ps2-game-covers/main/covers/%Serial%.png```
 * or use this URL for 3D covers
 ```https://raw.githubusercontent.com/Azrilpramudia/ps2-game-covers/main/covers/%Serial%.png```
-* Check "Use Serial File Name"
+* [] Check "Use Serial File Name"
 * Click Start
 
 ## Credit
