@@ -1,4 +1,4 @@
-# PS2 Game Cover
+# PS2 Game Cover Collection
 
 **Don't forget to star the repository ⭐**
 ### Coming soon
