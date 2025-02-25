@@ -1,6 +1,6 @@
 # PS2 Game Cover
 
-### Don't forget to star the repository and fork it to make things easier for you ⭐
+### Don't forget to star the repository ⭐
 ### Coming soon
 
 ## PCSX2 Setup
