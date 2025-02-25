@@ -17,6 +17,10 @@ To download PCSX2 covers use version v.1.7.3329 or higher
 * [✅] Check "Use Serial File Name"
 * Click Start
 
+## Cover Stats
+
+```proccess```
+
 ## Credit
 pcsx2.net <br>
 wiki.pcsx2.net <br>
