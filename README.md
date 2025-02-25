@@ -19,47 +19,38 @@ To download PCSX2 covers use version **v.1.7.3329** or higher
 
 ## Cover Stats
 
-# Covers Stats
-
 | Serial | Available/Total |
 |--------|-----------------|
 | ALCH   | ```proccess```  |
 | CPCS   | ```proccess```  |
-| GUST   | 1/1             |
-| PAPX   | 12/13           |
-| PBGP   | 3/3             |
-| PBPX   | 29/35           |
-| PCPX   | 6/12            |
-| PDPX   | 1/1             |
-| PKP2   | 1/1             |
-| SCAJ   | 160/213         |
-| SCCS   | 12/18           |
-| SCED   | 8/304           |
-| SCES   | 380/455         |
-| SCKA   | 65/92           |
-| SCPM   | 2/2             |
-| SCPN   | 7/7             |
-| SCPS   | 238/291         |
-| SCUS   | 207/397         |
-| SLAJ   | 43/63           |
-| SLED   | 3/52            |
-| SLES   | 2916/3069       |
-| SLKA   | 168/261         |
-| SLPM   | 2456/2728       |
-| SLPS   | 1136/1288       |
-| SLUS   | 1737/1944       |
-| TCES   | 2/12            |
-| TCPS   | 19/36           |
-| TLES   | 2/8             |
-| VW067  | 2/2             |
+| GUST   | ```proccess```  |
+| PAPX   | ```proccess```  |
+| PBGP   | ```proccess```  |
+| PBPX   | ```proccess```  |
+| PCPX   | ```proccess```  |
+| PDPX   | ```proccess```  |
+| PKP2   | ```proccess```  |
+| SCAJ   | ```proccess```  |
+| SCCS   | ```proccess```  |
+| SCED   | ```proccess```  |
+| SCES   | ```proccess```  |
+| SCKA   | ```proccess```  |
+| SCPM   | ```proccess```  |
+| SCPN   | ```proccess```  |
+| SCPS   | ```proccess```  |
+| SCUS   | ```proccess```  |
+| SLAJ   | ```proccess```  |
+| SLED   | ```proccess```  |
+| SLES   | ```proccess```  |
+| SLKA   | ```proccess```  |
+| SLPM   | ```proccess```  |
+| SLPS   | ```proccess```  |
+| SLUS   | ```proccess```  |
+| TCES   | ```proccess```  |
+| TCPS   | ```proccess```  |
+| TLES   | ```proccess```  |
+| VW067  | ```proccess```  |
 
-# Credits
-
-* pcsx2.net
-* psxdatacenter.com
-* gvcover.top
-* imkira3
-* waifu2x
 
 ## Credit
 pcsx2.net <br>
